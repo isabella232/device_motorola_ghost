@@ -220,8 +220,8 @@
             16 - App switch
             32 - Camera
          For example, a device with Home, Back and Menu keys would set this
-         config to 7. -->
-    <integer name="config_deviceHardwareKeys">0</integer>
+         config to 7.
+    <integer name="config_deviceHardwareKeys">0</integer> -->
 
     <!-- Component name of the geofence services provider. -->
     <string name="config_geofenceServicesProvider" translatable="false">com.motorola.motgeofencesvc</string>
